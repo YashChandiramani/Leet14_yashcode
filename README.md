@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1291-sequential-digits) |
+| [1952-three-divisors](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1952-three-divisors) |
 ## Array
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2469-convert-the-temperature) |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2413-smallest-even-multiple) |
 | [3312-sorted-gcd-pair-queries](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3312-sorted-gcd-pair-queries) |
