@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [2579-count-total-number-of-colored-cells](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2579-count-total-number-of-colored-cells) |
 | [3312-sorted-gcd-pair-queries](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3658-gcd-of-odd-and-even-sums) |
