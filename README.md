@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0016-3sum-closest](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0016-3sum-closest) |
 | [0036-valid-sudoku](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0036-valid-sudoku) |
 | [0283-move-zeroes](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0283-move-zeroes) |
 | [1260-shift-2d-grid](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1260-shift-2d-grid) |
@@ -63,12 +64,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0016-3sum-closest) |
 | [0283-move-zeroes](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0283-move-zeroes) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0016-3sum-closest) |
 | [3536-maximum-product-of-two-digits](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
