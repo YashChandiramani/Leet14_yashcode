@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0036-valid-sudoku) |
 | [0283-move-zeroes](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0867-transpose-matrix](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0036-valid-sudoku) |
+| [0867-transpose-matrix](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1572-matrix-diagonal-sum) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
