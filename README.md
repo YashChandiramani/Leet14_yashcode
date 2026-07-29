@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0917-reverse-only-letters](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0917-reverse-only-letters) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2697-lexicographically-smallest-palindrome) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Sorting
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1260-shift-2d-grid) |
 | [2810-faulty-keyboard](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2810-faulty-keyboard) |
 | [2899-last-visited-integers](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2899-last-visited-integers) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-maximize-active-section-with-trade-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Stack
 |  |
 | ------- |
