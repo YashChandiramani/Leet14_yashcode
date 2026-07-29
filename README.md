@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0867-transpose-matrix](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1260-shift-2d-grid) |
+| [2810-faulty-keyboard](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2810-faulty-keyboard) |
 | [2899-last-visited-integers](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2899-last-visited-integers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2697-lexicographically-smallest-palindrome) |
+| [2810-faulty-keyboard](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2810-faulty-keyboard) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
