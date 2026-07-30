@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0415-add-strings](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1227-airplane-seat-assignment-probability](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1952-three-divisors](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1952-three-divisors) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1260-shift-2d-grid) |
 | [2810-faulty-keyboard](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2810-faulty-keyboard) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0415-add-strings](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0541-reverse-string-ii) |
 | [0917-reverse-only-letters](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0917-reverse-only-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
