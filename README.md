@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0043-multiply-strings) |
 | [0168-excel-sheet-column-title](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0415-add-strings](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0486-predict-the-winner) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0415-add-strings) |
