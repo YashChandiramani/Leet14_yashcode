@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0016-3sum-closest) |
 | [0036-valid-sudoku](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0059-spiral-matrix-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
