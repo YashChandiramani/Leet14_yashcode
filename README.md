@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0258-add-digits](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2413-smallest-even-multiple) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0059-spiral-matrix-ii) |
+| [0258-add-digits](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0885-spiral-matrix-iii) |
