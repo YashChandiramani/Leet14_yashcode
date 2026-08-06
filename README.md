@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0486-predict-the-winner) |
+| [0593-valid-square](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0877-stone-game) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0593-valid-square](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0593-valid-square) |
 | [0812-largest-triangle-area](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0812-largest-triangle-area) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
