@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2899-last-visited-integers](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2899-last-visited-integers) |
 | [3312-sorted-gcd-pair-queries](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1260-shift-2d-grid) |
 | [1646-get-maximum-in-generated-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1646-get-maximum-in-generated-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2810-faulty-keyboard](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2810-faulty-keyboard) |
 | [2899-last-visited-integers](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2899-last-visited-integers) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1572-matrix-diagonal-sum) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Geometry
 |  |
 | ------- |
@@ -310,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Brainteaser
 |  |
 | ------- |
