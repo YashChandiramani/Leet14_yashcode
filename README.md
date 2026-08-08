@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0877-stone-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1406-stone-game-iii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2697-lexicographically-smallest-palindrome) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2810-faulty-keyboard](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2810-faulty-keyboard) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2697-lexicographically-smallest-palindrome](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Monotonic Stack
 |  |
