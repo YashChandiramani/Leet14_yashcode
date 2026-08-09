@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1646-get-maximum-in-generated-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1646-get-maximum-in-generated-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2090-k-radius-subarray-averages](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2090-k-radius-subarray-averages) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0643-maximum-average-subarray-i) |
+| [2090-k-radius-subarray-averages](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2090-k-radius-subarray-averages) |
 ## Divide and Conquer
 |  |
 | ------- |
