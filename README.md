@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0486-predict-the-winner) |
 | [0566-reshape-the-matrix](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0643-maximum-average-subarray-i) |
 | [0766-toeplitz-matrix](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0766-toeplitz-matrix) |
 | [0812-largest-triangle-area](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0812-largest-triangle-area) |
 | [0832-flipping-an-image](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0832-flipping-an-image) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0643-maximum-average-subarray-i) |
 ## Divide and Conquer
 |  |
 | ------- |
