@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-airplane-seat-assignment-probability](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1406-stone-game-iii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1510-stone-game-iv) |
 | [1952-three-divisors](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2413-smallest-even-multiple) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1140-stone-game-ii) |
 | [1227-airplane-seat-assignment-probability](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1406-stone-game-iii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
@@ -359,16 +361,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1510-stone-game-iv) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -393,4 +398,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3477-fruits-into-baskets-ii) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
