@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2899-last-visited-integers](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2899-last-visited-integers) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0658-find-k-closest-elements) |
 | [1652-defuse-the-bomb](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1652-defuse-the-bomb) |
 | [2090-k-radius-subarray-averages](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2090-k-radius-subarray-averages) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
