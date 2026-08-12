@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0658-find-k-closest-elements) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -418,4 +419,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1510-stone-game-iv) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
