@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1652-defuse-the-bomb) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2029-stone-game-ix) |
 | [2090-k-radius-subarray-averages](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2090-k-radius-subarray-averages) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1510-stone-game-iv) |
 | [1952-three-divisors](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2029-stone-game-ix) |
 | [2413-smallest-even-multiple](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2029-stone-game-ix](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2029-stone-game-ix) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -395,18 +399,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -436,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
