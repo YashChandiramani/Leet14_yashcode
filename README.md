@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0485-max-consecutive-ones) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0486-predict-the-winner) |
 | [0593-valid-square](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0593-valid-square) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -241,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0658-find-k-closest-elements) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -350,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0832-flipping-an-image) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
