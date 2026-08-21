@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0486-predict-the-winner) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0541-reverse-string-ii) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0658-find-k-closest-elements) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0832-flipping-an-image) |
 | [1386-cinema-seat-allocation](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1386-cinema-seat-allocation) |
 | [2206-divide-array-into-equal-pairs](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2206-divide-array-into-equal-pairs) |
@@ -502,4 +506,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1143-longest-common-subsequence) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
