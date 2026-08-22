@@ -543,4 +543,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1201-ugly-number-iii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1201-ugly-number-iii) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
