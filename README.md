@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0486-predict-the-winner) |
+| [0560-subarray-sum-equals-k](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0643-maximum-average-subarray-i) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0560-subarray-sum-equals-k) |
 | [1386-cinema-seat-allocation](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1386-cinema-seat-allocation) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2206-divide-array-into-equal-pairs](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2206-divide-array-into-equal-pairs) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
