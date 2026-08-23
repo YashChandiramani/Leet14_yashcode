@@ -1,9 +1,7 @@
 class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
-
-        sort(nums.begin(), nums.end());
-
+        unordered_set<int> st;
         int n = nums.size();
 
         if(n == 0){
@@ -11,19 +9,22 @@ public:
         }
 
         int longest = 1;
-        int cntcurr = 0;
-        int lastsmaller = INT_MIN;
 
         for(int i = 0; i < n; ++i){
-            if(nums[i] - 1 == lastsmaller){
-                cntcurr++;
-                lastsmaller = nums[i];
+            st.insert(nums[i]);
+        }
+
+        for(auto it : st){
+            if(st.find(it - 1) == st.end()){
+                int cnt = 1;
+                int x = it;
+
+                while(st.find(x + 1) != st.end()){
+                    x++;
+                    cnt++;
+                }
+                longest = max(longest, cnt);
             }
-            else if(nums[i] != lastsmaller){
-                cntcurr = 1;
-                lastsmaller = nums[i];
-            }
-            longest = max(longest, cntcurr);
         }
         return longest;
     }
