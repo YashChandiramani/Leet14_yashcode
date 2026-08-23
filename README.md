@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0119-pascals-triangle-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0119-pascals-triangle-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0169-majority-element) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0219-contains-duplicate-ii) |
@@ -551,4 +553,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0595-big-countries) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
