@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0136-single-number) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0486-predict-the-winner) |
