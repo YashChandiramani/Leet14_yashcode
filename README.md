@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0766-toeplitz-matrix](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0766-toeplitz-matrix) |
 | [0812-largest-triangle-area](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0812-largest-triangle-area) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0704-binary-search) |
 | [1201-ugly-number-iii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1201-ugly-number-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
