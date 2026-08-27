@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0054-spiral-matrix) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0016-3sum-closest) |
+| [0047-permutations-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0169-majority-element) |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0047-permutations-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Ordered Set
 |  |
