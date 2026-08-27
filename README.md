@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0054-spiral-matrix) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0046-permutations) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Ordered Set
 |  |
