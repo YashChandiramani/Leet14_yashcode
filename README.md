@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0268-missing-number) |
+| [0365-water-and-jug-problem](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0365-water-and-jug-problem) |
 | [0415-add-strings](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0486-predict-the-winner) |
 | [0593-valid-square](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0593-valid-square) |
@@ -525,10 +526,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0365-water-and-jug-problem) |
 | [3310-remove-methods-from-project](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0365-water-and-jug-problem) |
 | [3310-remove-methods-from-project](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -594,10 +597,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0365-water-and-jug-problem) |
 | [1201-ugly-number-iii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1201-ugly-number-iii) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0365-water-and-jug-problem) |
 | [1201-ugly-number-iii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1201-ugly-number-iii) |
 ## Inclusion-Exclusion Principle
 |  |
@@ -611,4 +616,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0128-longest-consecutive-sequence) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
