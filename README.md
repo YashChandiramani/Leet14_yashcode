@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0560-subarray-sum-equals-k) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0383-ransom-note) |
 | [2029-stone-game-ix](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2029-stone-game-ix) |
 | [2206-divide-array-into-equal-pairs](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0383-ransom-note) |
 | [0415-add-strings](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0557-reverse-words-in-a-string-iii) |
