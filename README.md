@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-projection-area-of-3d-shapes](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0885-spiral-matrix-iii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0885-spiral-matrix-iii) |
 | [0905-sort-array-by-parity](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0905-sort-array-by-parity) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0977-squares-of-a-sorted-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1030-matrix-cells-in-distance-order](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1140-stone-game-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1140-stone-game-ii) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0883-projection-area-of-3d-shapes) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1030-matrix-cells-in-distance-order](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1103-distribute-candies-to-people](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1103-distribute-candies-to-people) |
 | [1140-stone-game-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1140-stone-game-ii) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0258-add-digits) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1201-ugly-number-iii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1201-ugly-number-iii) |
 | [1952-three-divisors](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0560-subarray-sum-equals-k) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1386-cinema-seat-allocation](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1386-cinema-seat-allocation) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -348,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0383-ransom-note) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2029-stone-game-ix](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2029-stone-game-ix) |
 | [2206-divide-array-into-equal-pairs](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -609,11 +614,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0365-water-and-jug-problem) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1201-ugly-number-iii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1201-ugly-number-iii) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0365-water-and-jug-problem) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1201-ugly-number-iii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1201-ugly-number-iii) |
 ## Inclusion-Exclusion Principle
 |  |
