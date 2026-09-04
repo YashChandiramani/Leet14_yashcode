@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1291-sequential-digits) |
 | [1952-three-divisors](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1952-three-divisors) |
+| [2427-number-of-common-factors](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2427-number-of-common-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2029-stone-game-ix) |
 | [2413-smallest-even-multiple](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2579-count-total-number-of-colored-cells](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2579-count-total-number-of-colored-cells) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2427-number-of-common-factors) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -622,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1201-ugly-number-iii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1201-ugly-number-iii) |
 | [1250-check-if-it-is-a-good-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1250-check-if-it-is-a-good-array) |
+| [2427-number-of-common-factors](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2427-number-of-common-factors) |
 ## Greatest Common Divisor
 |  |
 | ------- |
@@ -629,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1201-ugly-number-iii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1201-ugly-number-iii) |
 | [1250-check-if-it-is-a-good-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1250-check-if-it-is-a-good-array) |
+| [2427-number-of-common-factors](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2427-number-of-common-factors) |
 ## Inclusion-Exclusion Principle
 |  |
 | ------- |
