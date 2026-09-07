@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1646-get-maximum-in-generated-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1646-get-maximum-in-generated-array) |
 | [1652-defuse-the-bomb](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1652-defuse-the-bomb) |
+| [1748-sum-of-unique-elements](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1872-stone-game-viii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1386-cinema-seat-allocation](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1748-sum-of-unique-elements](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1748-sum-of-unique-elements) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2206-divide-array-into-equal-pairs) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0383-ransom-note) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1748-sum-of-unique-elements](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1748-sum-of-unique-elements) |
 | [2029-stone-game-ix](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2029-stone-game-ix) |
 | [2206-divide-array-into-equal-pairs](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
