@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0593-valid-square](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0812-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0593-valid-square](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0593-valid-square) |
 | [0812-largest-triangle-area](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0812-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1030-matrix-cells-in-distance-order](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1232-check-if-it-is-a-straight-line) |
