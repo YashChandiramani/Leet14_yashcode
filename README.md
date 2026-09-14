@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1291-sequential-digits) |
 | [1952-three-divisors](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1952-three-divisors) |
+| [2367-number-of-arithmetic-triplets](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2427-number-of-common-factors](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2427-number-of-common-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2239-find-closest-number-to-zero](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2239-find-closest-number-to-zero) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2367-number-of-arithmetic-triplets](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2460-apply-operations-to-an-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2460-apply-operations-to-an-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2644-find-the-maximum-divisibility-score) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2367-number-of-arithmetic-triplets](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2460-apply-operations-to-an-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2460-apply-operations-to-an-array) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2367-number-of-arithmetic-triplets](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
