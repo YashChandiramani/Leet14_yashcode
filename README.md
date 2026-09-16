@@ -721,4 +721,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0509-fibonacci-number](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1137-n-th-tribonacci-number) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
