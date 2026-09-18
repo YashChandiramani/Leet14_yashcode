@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2367-number-of-arithmetic-triplets](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2460-apply-operations-to-an-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2460-apply-operations-to-an-array) |
@@ -742,5 +743,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
