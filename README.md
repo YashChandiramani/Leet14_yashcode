@@ -547,12 +547,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0023-merge-k-sorted-lists) |
 | [0658-find-k-closest-elements](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0658-find-k-closest-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -736,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0206-reverse-linked-list) |
@@ -745,4 +748,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
