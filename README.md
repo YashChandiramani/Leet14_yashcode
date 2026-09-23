@@ -432,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0168-excel-sheet-column-title) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0020-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
@@ -766,4 +768,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0023-merge-k-sorted-lists) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
