@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2239-find-closest-number-to-zero](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2239-find-closest-number-to-zero) |
+| [2326-spiral-matrix-iv](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2326-spiral-matrix-iv) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2367-number-of-arithmetic-triplets](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2460-apply-operations-to-an-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2460-apply-operations-to-an-array) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-get-maximum-in-generated-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1646-get-maximum-in-generated-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2326-spiral-matrix-iv](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2326-spiral-matrix-iv) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2460-apply-operations-to-an-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2460-apply-operations-to-an-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1572-matrix-diagonal-sum) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2326-spiral-matrix-iv](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2326-spiral-matrix-iv) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Geometry
 |  |
@@ -759,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2326-spiral-matrix-iv](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2326-spiral-matrix-iv) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Merge Sort
 |  |
