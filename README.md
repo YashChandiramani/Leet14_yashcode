@@ -476,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0445-add-two-numbers-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0445-add-two-numbers-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -628,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0365-water-and-jug-problem](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0365-water-and-jug-problem) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3310-remove-methods-from-project) |
@@ -745,11 +747,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Memoization
 |  |
