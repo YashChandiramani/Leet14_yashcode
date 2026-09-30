@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0486-predict-the-winner) |
+| [0507-perfect-number](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0509-fibonacci-number) |
 | [0593-valid-square](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0628-maximum-product-of-three-numbers) |
