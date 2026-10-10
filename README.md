@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0119-pascals-triangle-ii) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0168-excel-sheet-column-title) |
@@ -663,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0047-permutations-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -817,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
