@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0509-fibonacci-number) |
+| [0537-complex-number-multiplication](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0537-complex-number-multiplication) |
 | [0593-valid-square](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0633-sum-of-square-numbers) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0415-add-strings) |
+| [0537-complex-number-multiplication](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0537-complex-number-multiplication) |
 | [0566-reshape-the-matrix](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0867-transpose-matrix) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0383-ransom-note) |
 | [0415-add-strings](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0415-add-strings) |
+| [0537-complex-number-multiplication](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0537-complex-number-multiplication) |
 | [0541-reverse-string-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0917-reverse-only-letters](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0917-reverse-only-letters) |
