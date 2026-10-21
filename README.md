@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3903-smallest-stable-index-i) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+| [3978-unique-middle-element](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3978-unique-middle-element) |
 ## Math
 |  |
 | ------- |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3978-unique-middle-element](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3978-unique-middle-element) |
 ## Prefix Sum
 |  |
 | ------- |
