@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2029-stone-game-ix) |
+| [2409-count-days-spent-together](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2469-convert-the-temperature) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2409-count-days-spent-together](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2409-count-days-spent-together) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2810-faulty-keyboard](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2810-faulty-keyboard) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
