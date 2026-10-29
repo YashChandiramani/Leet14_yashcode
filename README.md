@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1646-get-maximum-in-generated-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1646-get-maximum-in-generated-array) |
 | [1652-defuse-the-bomb](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1652-defuse-the-bomb) |
+| [1720-decode-xored-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1720-decode-xored-array) |
 | [1748-sum-of-unique-elements](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1872-stone-game-viii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1872-stone-game-viii) |
@@ -582,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0832-flipping-an-image) |
 | [1386-cinema-seat-allocation](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1386-cinema-seat-allocation) |
 | [1486-xor-operation-in-an-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1486-xor-operation-in-an-array) |
+| [1720-decode-xored-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1720-decode-xored-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3513-number-of-unique-xor-triplets-i) |
