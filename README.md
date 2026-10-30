@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0877-stone-game) |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0338-counting-bits) |
 | [0832-flipping-an-image](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0832-flipping-an-image) |
 | [1386-cinema-seat-allocation](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1386-cinema-seat-allocation) |
 | [1486-xor-operation-in-an-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1486-xor-operation-in-an-array) |
