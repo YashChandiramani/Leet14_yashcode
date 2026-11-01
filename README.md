@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0365-water-and-jug-problem) |
 | [0415-add-strings](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0445-add-two-numbers-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0509-fibonacci-number) |
