@@ -681,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0365-water-and-jug-problem](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0365-water-and-jug-problem) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3310-remove-methods-from-project) |
@@ -693,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0365-water-and-jug-problem](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0365-water-and-jug-problem) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [3310-remove-methods-from-project](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -810,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -823,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Memoization
@@ -874,4 +878,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
