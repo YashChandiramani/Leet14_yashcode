@@ -681,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0365-water-and-jug-problem](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0365-water-and-jug-problem) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -812,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -826,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -881,5 +884,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
