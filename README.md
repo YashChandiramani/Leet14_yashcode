@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-get-maximum-in-generated-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1646-get-maximum-in-generated-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2326-spiral-matrix-iv](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2326-spiral-matrix-iv) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2460-apply-operations-to-an-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2460-apply-operations-to-an-array) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2409-count-days-spent-together) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2810-faulty-keyboard](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2810-faulty-keyboard) |
