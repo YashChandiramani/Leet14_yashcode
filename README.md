@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0485-max-consecutive-ones) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0658-find-k-closest-elements) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0560-subarray-sum-equals-k) |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0383-ransom-note) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -623,11 +627,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0347-top-k-frequent-elements) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0658-find-k-closest-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -894,4 +900,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/YashChandiramani/Leet14_yashcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
